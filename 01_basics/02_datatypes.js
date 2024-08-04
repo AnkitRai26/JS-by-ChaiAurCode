@@ -5,7 +5,7 @@
 
 console.log( 3 + 3);
                     // code should be readable
-console.lof("Ankit");
+console.log("Ankit");
 
 // data type
 
@@ -19,3 +19,7 @@ console.lof("Ankit");
 // 8-Object 
 
 console.log(typeof "Ankit");
+console.log(typeof 3);
+console.log(typeof null);//object
+console.log(typeof undefined);//undifined
+
